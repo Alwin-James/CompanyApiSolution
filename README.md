@@ -2,7 +2,7 @@
 
 ## Overview
 
-**CompanyApiSolution** is a .NET 6+ Web API application that serves as a middle-tier service for managing company records. The API supports creating, retrieving, and updating Company records with the following fields:
+**CompanyApiSolution** is a .NET 6+ Web API application for managing company records. It supports operations such as creating, retrieving, and updating companies, and it uses JWT-based authentication for security. Swagger is used for API documentation and testing. The API supports creating, retrieving, and updating Company records with the following fields:
 
 -   **Name**
 -   **Stock Ticker**
@@ -11,12 +11,6 @@
 -   **Website URL** (optional)
 
 Additionally, the API implements JWT-based authentication to secure endpoints. Swagger is used for API documentation and testing.
-
-# CompanyApiSolution
-
-## Overview
-
-**CompanyApiSolution** is a .NET 6+ Web API application for managing company records. It supports operations such as creating, retrieving, and updating companies, and it uses JWT-based authentication for security. Swagger is used for API documentation and testing.
 
 ## Architecture
 
